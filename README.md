@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[a relative link](hi.html)
-<script src='hi.js'>{newline}</script>
