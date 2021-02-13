@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [a relative link](hi.html)
+<script src='hi.js'>{newline}</script>
