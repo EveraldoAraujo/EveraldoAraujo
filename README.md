@@ -1,5 +1,2 @@
 ### Hi there 👋
-
-(setq markdown-css-paths '("css.css"))
-
-<div></div>
+<div style="color:red; width:100px; height:100px">.</div>
